@@ -43,6 +43,12 @@ This C project implements a bus management system using linked lists to store in
   ![image6](https://github.com/MusabMasalmah/Linked_List_Project/assets/129512609/5aafe674-9bc0-49ac-8a49-3d72d25753b7)
 </details>
 
+ ## Note
+ - Feel free to take this project to see and learn from it. 
+
+ 
+ ## Auther
+ - Musab Masalmah. 
 
 
 
