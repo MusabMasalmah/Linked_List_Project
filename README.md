@@ -31,12 +31,18 @@ This C project implements a bus management system using linked lists to store in
   - ...
 
 ## Testing
-![image](https://github.com/MusabMasalmah/Linked_List_Project/assets/129512609/f5b53739-8ac9-4279-ada2-774ded855073)
-![image](https://github.com/MusabMasalmah/Linked_List_Project/assets/129512609/863ceeb2-980e-4b27-899a-3c294d5191e5)
-![image](https://github.com/MusabMasalmah/Linked_List_Project/assets/129512609/cd8aca7b-a438-4f7c-b0c7-809cabbf9379)
-![image](https://github.com/MusabMasalmah/Linked_List_Project/assets/129512609/670d829e-b63b-4fac-a80d-b8eae904964d)
-![image](https://github.com/MusabMasalmah/Linked_List_Project/assets/129512609/719abc9b-d5aa-4c4e-9a79-e6f072405bd8)
-![image](https://github.com/MusabMasalmah/Linked_List_Project/assets/129512609/5aafe674-9bc0-49ac-8a49-3d72d25753b7)
+
+<details>
+  <summary>Click to view testing images</summary>
+
+  ![image1](https://github.com/MusabMasalmah/Linked_List_Project/assets/129512609/f5b53739-8ac9-4279-ada2-774ded855073)
+  ![image2](https://github.com/MusabMasalmah/Linked_List_Project/assets/129512609/863ceeb2-980e-4b27-899a-3c294d5191e5)
+  ![image3](https://github.com/MusabMasalmah/Linked_List_Project/assets/129512609/cd8aca7b-a438-4f7c-b0c7-809cabbf9379)
+  ![image4](https://github.com/MusabMasalmah/Linked_List_Project/assets/129512609/670d829e-b63b-4fac-a80d-b8eae904964d)
+  ![image5](https://github.com/MusabMasalmah/Linked_List_Project/assets/129512609/719abc9b-d5aa-4c4e-9a79-e6f072405bd8)
+  ![image6](https://github.com/MusabMasalmah/Linked_List_Project/assets/129512609/5aafe674-9bc0-49ac-8a49-3d72d25753b7)
+</details>
+
 
 
 
